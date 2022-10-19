@@ -6,3 +6,4 @@
 - @Work (vm) added line 6 - git-cola test
 - @Home (native) added line 7 - git-cola test #2
 - @Home (native) added line 8 - git-cola test #3
+- @Home (native) added line 9 - git-cola test #4
