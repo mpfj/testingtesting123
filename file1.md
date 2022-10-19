@@ -7,3 +7,4 @@
 - @Home (native) added line 7 - git-cola test #2
 - @Home (native) added line 8 - git-cola test #3
 - @Home (native) added line 9 - git-cola test #4
+- @Home (native) added line 10 - git-cola test #5
